@@ -1,0 +1,5 @@
+[24-Sep-2024 21:49:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'https://play.google.com/store/apps/details?id=com.amzro.vpn' for key 'slug' in /home/moshcplo/new.intellai.org/admin/forms/add_new_task.php:24
+Stack trace:
+#0 /home/moshcplo/new.intellai.org/admin/forms/add_new_task.php(24): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/moshcplo/new.intellai.org/admin/forms/add_new_task.php on line 24
